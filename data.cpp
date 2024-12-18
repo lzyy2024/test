@@ -4,6 +4,7 @@
 #include <string>
 
 int main() {
+    // second
     // 初始化随机数生成器
 
     // freopen("in10.in", "w", stdout);
